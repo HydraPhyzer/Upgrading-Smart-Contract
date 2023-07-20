@@ -1,0 +1,238 @@
+{
+  "version": "3.4",
+  "log": [
+    {
+      "Contracts/New.sol:New": {
+        "src": "Contracts\\New.sol:4",
+        "version": {
+          "withMetadata": "e4187fcbc66f0c67bd9e06ad40f59dce1802375513cd781c713c2f46ffaac5fa",
+          "withoutMetadata": "b40b3bfab3eec847b4936eed446b9221219c65668788de8a6be96135b282e896",
+          "linkedWithoutMetadata": "b40b3bfab3eec847b4936eed446b9221219c65668788de8a6be96135b282e896"
+        },
+        "inherit": [],
+        "libraries": [],
+        "methods": [
+          "Set(uint256)",
+          "Get()",
+          "Increment()"
+        ],
+        "linkReferences": [],
+        "errors": [],
+        "layout": {
+          "storage": [
+            {
+              "label": "Num",
+              "offset": 0,
+              "slot": "0",
+              "type": "t_uint256",
+              "contract": "New",
+              "src": "Contracts\\New.sol:5"
+            }
+          ],
+          "types": {
+            "t_uint256": {
+              "label": "uint256",
+              "numberOfBytes": "32"
+            }
+          },
+          "layoutVersion": "1.2",
+          "flat": true
+        },
+        "solcVersion": "0.8.19"
+      },
+      "Contracts/Old.sol:Old": {
+        "src": "Contracts\\Old.sol:4",
+        "version": {
+          "withMetadata": "ce37fb7908eef460c9d1c9fc57edf99cc7a84ff3f58642040a75e144f116f632",
+          "withoutMetadata": "e8df0f5cb22564633320f214b9e8e404139d023ab232d895e5b6e36bfbe8f660",
+          "linkedWithoutMetadata": "e8df0f5cb22564633320f214b9e8e404139d023ab232d895e5b6e36bfbe8f660"
+        },
+        "inherit": [],
+        "libraries": [],
+        "methods": [
+          "Set(uint256)",
+          "Get()"
+        ],
+        "linkReferences": [],
+        "errors": [],
+        "layout": {
+          "storage": [
+            {
+              "label": "Num",
+              "offset": 0,
+              "slot": "0",
+              "type": "t_uint256",
+              "contract": "Old",
+              "src": "Contracts\\Old.sol:5"
+            }
+          ],
+          "types": {
+            "t_uint256": {
+              "label": "uint256",
+              "numberOfBytes": "32"
+            }
+          },
+          "layoutVersion": "1.2",
+          "flat": true
+        },
+        "solcVersion": "0.8.19"
+      }
+    },
+    {
+      "Contracts/Old.sol:Old": {
+        "src": "Contracts\\Old.sol:4",
+        "version": {
+          "withMetadata": "35acfa6a1b86a0561fe0afb47310a23fbb4d738dd4d3aada20634f0de0d7417d",
+          "withoutMetadata": "e8df0f5cb22564633320f214b9e8e404139d023ab232d895e5b6e36bfbe8f660",
+          "linkedWithoutMetadata": "e8df0f5cb22564633320f214b9e8e404139d023ab232d895e5b6e36bfbe8f660"
+        },
+        "inherit": [],
+        "libraries": [],
+        "methods": [
+          "Set(uint256)",
+          "Get()"
+        ],
+        "linkReferences": [],
+        "errors": [],
+        "layout": {
+          "storage": [
+            {
+              "label": "Num",
+              "offset": 0,
+              "slot": "0",
+              "type": "t_uint256",
+              "contract": "Old",
+              "src": "Contracts\\Old.sol:5"
+            }
+          ],
+          "types": {
+            "t_uint256": {
+              "label": "uint256",
+              "numberOfBytes": "32"
+            }
+          },
+          "layoutVersion": "1.2",
+          "flat": true
+        },
+        "solcVersion": "0.8.19"
+      }
+    },
+    {
+      "Contracts/Old.sol:Old": {
+        "src": "Contracts\\Old.sol:4",
+        "version": {
+          "withMetadata": "35acfa6a1b86a0561fe0afb47310a23fbb4d738dd4d3aada20634f0de0d7417d",
+          "withoutMetadata": "e8df0f5cb22564633320f214b9e8e404139d023ab232d895e5b6e36bfbe8f660",
+          "linkedWithoutMetadata": "e8df0f5cb22564633320f214b9e8e404139d023ab232d895e5b6e36bfbe8f660"
+        },
+        "inherit": [],
+        "libraries": [],
+        "methods": [
+          "Set(uint256)",
+          "Get()"
+        ],
+        "linkReferences": [],
+        "errors": [],
+        "layout": {
+          "storage": [
+            {
+              "label": "Num",
+              "offset": 0,
+              "slot": "0",
+              "type": "t_uint256",
+              "contract": "Old",
+              "src": "Contracts\\Old.sol:5"
+            }
+          ],
+          "types": {
+            "t_uint256": {
+              "label": "uint256",
+              "numberOfBytes": "32"
+            }
+          },
+          "layoutVersion": "1.2",
+          "flat": true
+        },
+        "solcVersion": "0.8.19"
+      }
+    },
+    {
+      "Contracts/Old.sol:Number": {
+        "src": "Contracts\\Old.sol:4",
+        "version": {
+          "withMetadata": "7a944f1933f98a6a495261a8a4d36f739da9d4c8c53b27439845acec2fccf84d",
+          "withoutMetadata": "e8df0f5cb22564633320f214b9e8e404139d023ab232d895e5b6e36bfbe8f660",
+          "linkedWithoutMetadata": "e8df0f5cb22564633320f214b9e8e404139d023ab232d895e5b6e36bfbe8f660"
+        },
+        "inherit": [],
+        "libraries": [],
+        "methods": [
+          "Set(uint256)",
+          "Get()"
+        ],
+        "linkReferences": [],
+        "errors": [],
+        "layout": {
+          "storage": [
+            {
+              "label": "Num",
+              "offset": 0,
+              "slot": "0",
+              "type": "t_uint256",
+              "contract": "Number",
+              "src": "Contracts\\Old.sol:5"
+            }
+          ],
+          "types": {
+            "t_uint256": {
+              "label": "uint256",
+              "numberOfBytes": "32"
+            }
+          },
+          "layoutVersion": "1.2",
+          "flat": true
+        },
+        "solcVersion": "0.8.19"
+      }
+    },
+    {
+      "Contracts/Old.sol:Number": {
+        "src": "Contracts\\Old.sol:4",
+        "version": {
+          "withMetadata": "7a944f1933f98a6a495261a8a4d36f739da9d4c8c53b27439845acec2fccf84d",
+          "withoutMetadata": "e8df0f5cb22564633320f214b9e8e404139d023ab232d895e5b6e36bfbe8f660",
+          "linkedWithoutMetadata": "e8df0f5cb22564633320f214b9e8e404139d023ab232d895e5b6e36bfbe8f660"
+        },
+        "inherit": [],
+        "libraries": [],
+        "methods": [
+          "Set(uint256)",
+          "Get()"
+        ],
+        "linkReferences": [],
+        "errors": [],
+        "layout": {
+          "storage": [
+            {
+              "label": "Num",
+              "offset": 0,
+              "slot": "0",
+              "type": "t_uint256",
+              "contract": "Number",
+              "src": "Contracts\\Old.sol:5"
+            }
+          ],
+          "types": {
+            "t_uint256": {
+              "label": "uint256",
+              "numberOfBytes": "32"
+            }
+          },
+          "layoutVersion": "1.2",
+          "flat": true
+        },
+        "solcVersion": "0.8.19"
+      }
+    }
+  ]
+}

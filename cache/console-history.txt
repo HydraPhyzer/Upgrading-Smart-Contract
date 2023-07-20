@@ -1,0 +1,29 @@
+exit
+clear
+(await C2.Get()).toString()
+await C4.Increment()
+let C4=await C3.attach('0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0')
+await C3.Increment()
+let C3=await ethers.getContractFactory("New")
+let C2=await ethers.getContractFactory("New")
+(await C2.Get()).toString()
+await C2.Get().toString()
+await C2.Get()
+let C2=await C1.attach('0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0')
+let C1=await ethers.getContractFactory("Old")
+console.clear()
+console.clear
+clear
+const Conca=await A1.attach('0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0')
+const Conc=await A1.attach('0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0')
+console.clear()
+cls
+const Conc=await A1.attach('0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0')
+const Conc=await A1.attach("0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0")
+const Con=await A1.attach("0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0")
+const Con=A1.attach("0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0")
+const A1=ethers.getContractFactory("Old")
+console.clear()
+console.clear
+clear
+cls

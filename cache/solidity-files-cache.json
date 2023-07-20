@@ -1,0 +1,77 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Zubair Gujjar\\Desktop\\Blockchain Coding\\Upgrading-Smart-Contract\\Contracts\\Old.sol": {
+      "lastModificationDate": 1689840924458,
+      "contentHash": "088d3f5e0ca14295cd37b9fe1f42000c",
+      "sourceName": "Contracts/Old.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata",
+                "storageLayout"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Old"
+      ]
+    },
+    "C:\\Users\\Zubair Gujjar\\Desktop\\Blockchain Coding\\Upgrading-Smart-Contract\\Contracts\\New.sol": {
+      "lastModificationDate": 1689840978532,
+      "contentHash": "b550d86a9ac9f60bdc07a31510974f40",
+      "sourceName": "Contracts/New.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata",
+                "storageLayout"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "New"
+      ]
+    }
+  }
+}
